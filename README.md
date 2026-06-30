@@ -24,7 +24,7 @@ Canard-configuration fighter aircraft, including fuselage, canards, wings, and p
 ![XP-55 Ascender](Curtis%20Wright%20XP-55/Curtis%20Wright%20XP-55%20Ascender%20-%20Isometric.png)
 
 ### Voyager FW001
-Competition UAV design, developed for the NDBFC competition under Team Voyagers. Includes main body, empennage, propeller, and motor-propeller assembly.
+Competition UAV design, developed for the NDBFC-19 competition under Team Voyagers. Includes main body, empennage, propeller, and motor-propeller assembly.
 
 ![Voyager FW001](Voyager%20FW001/Voyager%20FW100-200%20-%20Isometric.png)
 
